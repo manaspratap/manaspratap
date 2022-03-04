@@ -31,9 +31,9 @@ I build beautiful ✨ User Experiences.
 
 🧑🏻‍💻 **About me**
 
-- 💼 Senior Software Engineer @ [GeekyAnts](https://geekyants.com)
+- 💼 SDE2 @ [Smallcase](https://www.smallcase.com)
 - 🔭 Currently working on Flutter and NodeJS
-- 🌱 Currently learning ReactJS
+- 🌱 Currently learning AR/VR
 - ❤️ Open-Source tech
 - 💬 Ask me about anything [here](https://github.com/manaspratap/manaspratap/issues)
 - 📫 You can also reach me at manaspratap@outlook.com
