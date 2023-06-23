@@ -1,4 +1,4 @@
-<h2>Hey, I'm <a href="https://www.linkedin.com/in/manaspratapthakur/">Manas Pratap Thakur</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2>Hey, I'm <a href="https://manaspratap.com/">Manas Pratap Thakur</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 <!--
 **manaspratap/manaspratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,9 +31,10 @@ I build beautiful ✨ User Experiences.
 
 🧑🏻‍💻 **About me**
 
-- 💼 SDE2 @ [Smallcase](https://www.smallcase.com)
+- 🌐 Checkout my website [manaspratap.com](https://manaspratap.com)
+- 💼 SDE @ [Smallcase](https://www.smallcase.com)
 - 🔭 Currently working on Flutter and NodeJS
-- 🌱 Currently learning AR/VR
+- 🌱 Currently learning Blockchain
 - ❤️ Open-Source tech
 - 💬 Ask me about anything [here](https://github.com/manaspratap/manaspratap/issues)
 - 📫 You can also reach me at manaspratap@outlook.com
