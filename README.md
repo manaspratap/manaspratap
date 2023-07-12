@@ -33,8 +33,7 @@ I build beautiful ✨ User Experiences.
 
 - 🌐 Checkout my website [manaspratap.com](https://manaspratap.com)
 - 💼 SDE @ [Smallcase](https://www.smallcase.com)
-- 🔭 Currently working on Flutter and NodeJS
-- 🌱 Currently learning Blockchain
+- 🏗️ Currently developing on Mobile and Blockchain
 - ❤️ Open-Source tech
 - 💬 Ask me about anything [here](https://github.com/manaspratap/manaspratap/issues)
 - 📫 You can also reach me at manaspratap@outlook.com
