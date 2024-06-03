@@ -19,8 +19,8 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/manaspratapthakur">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-   <a href="https://twitter.com/TheManasPratap">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+   <a href="https://manaspratap.com">
+    <img alt="My Website" src="https://img.shields.io/badge/My%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.buymeacoffee.com/manaspratap">
     <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
@@ -32,11 +32,10 @@ I build beautiful ✨ User Experiences.
 🧑🏻‍💻 **About me**
 
 - 🌐 Checkout my website [manaspratap.com](https://manaspratap.com)
-- 💼 SDE @ [Smallcase](https://www.smallcase.com)
+- 💼 Senior Software Engineer @ [Smallcase](https://www.smallcase.com)
 - 🏗️ Currently developing on Mobile and Blockchain
 - ❤️ Open-Source tech
 - 💬 Ask me about anything [here](https://github.com/manaspratap/manaspratap/issues)
-- 📫 You can also reach me at manaspratap@outlook.com
 
 📕 **Latest Blog Posts**
 
