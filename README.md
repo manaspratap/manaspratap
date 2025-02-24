@@ -32,7 +32,7 @@ I build beautiful ✨ User Experiences.
 🧑🏻‍💻 **About me**
 
 - 🌐 Checkout my website [manaspratap.com](https://manaspratap.com)
-- 💼 Senior Software Engineer @ [Dezerv](https://www.dezerv.in)
+- 💼 Tech lead 📱 @ [Dezerv](https://www.dezerv.in)
 - 🏗️ Currently developing on Mobile and Blockchain
 - ❤️ Open-Source tech
 - 💬 Ask me about anything [here](https://github.com/manaspratap/manaspratap/issues)
